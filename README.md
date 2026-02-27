@@ -88,7 +88,7 @@ Summary:
 
 ## Author
 
-bad-antics | [Discord](https://discord.gg/killers)
+bad-antics | [Discord](https://x.com/AnonAntics)
 
 ## License
 
